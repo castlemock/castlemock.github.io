@@ -87,3 +87,15 @@ Full documentation can be found under our [GitHub Wiki](https://github.com/castl
 ## Bugs and Feedback
 
 For bugs, questions and discussions please use the [GitHub Issues](https://github.com/castlemock/castlemock/issues)
+
+## Contact us
+
+
+<div class="contact-form">
+	<form action="https://formspree.io/myyndppk" method="POST">
+		<input type="hidden" name="_subject" value="Contact request from personal website" />
+		 <input type="email" name="_replyto" placeholder="Your email" required>
+		 <textarea name="message" placeholder="Type your message" rows="6" required></textarea>
+		 <button type="submit" class="btn">Send</button>
+	</form>
+</div>
