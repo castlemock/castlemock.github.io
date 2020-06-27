@@ -74,22 +74,11 @@ Castle Mock can be accessed from the following address after the installation is
 
 For more information and details: <a href="https://hub.docker.com/r/castlemock/castlemock">https://hub.docker.com/r/castlemock/castlemock</a>
 
-## Full Documentation
-
-Full documentation can be found under our [GitHub Wiki](https://github.com/castlemock/castlemock/wiki). 
-
-## Communication
-- Website: [https://www.castlemock.com/](https://www.castlemock.com/)
-- Twitter: [@CastleMock](http://twitter.com/CastleMock)
-- [GitHub Issues](https://github.com/castlemock/castlemock/issues)
-- [Docker](https://hub.docker.com/r/castlemock/castlemock/)
-
 ## Bugs and Feedback
 
 For bugs, questions and discussions please use the [GitHub Issues](https://github.com/castlemock/castlemock/issues)
 
 ## Contact us
-
 
 <div class="contact-form">
 	<form action="https://formspree.io/myyndppk" method="POST">
