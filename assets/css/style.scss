@@ -1,0 +1,39 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+body {
+	padding: 0px;
+
+	.header {
+		padding-top: 50px;
+	}
+
+	.wrapper {
+		padding-top: 50px;
+		width: 1060px;
+
+		section {
+			width: 700px;
+		}
+
+		.btn {
+		  background-color: #00aeef;
+		  border: none;
+		  color: white;
+		  padding: 12px 30px;
+		  cursor: pointer;
+		  font-size: 20px;
+		}
+
+		.btn:hover {
+		  background-color: #0078A6;
+		}
+	}
+	
+	.ribbon {
+		float: right;
+	}
+
+}
