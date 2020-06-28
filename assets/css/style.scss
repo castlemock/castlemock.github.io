@@ -4,19 +4,7 @@
 @import "jekyll-theme-minimal";
 
 body {
-	padding: 0px;
-
-	.header {
-		padding-top: 50px;
-	}
-
 	.wrapper {
-		padding-top: 50px;
-		width: 1060px;
-
-		section {
-			width: 700px;
-		}
 
 		.btn {
 		  background-color: #00aeef;
@@ -33,7 +21,8 @@ body {
 	}
 	
 	.ribbon {
-		float: right;
+		display: none;
+		visibility: hidden;
 	}
 
 	.contact-form {
@@ -64,4 +53,25 @@ body {
 			background-color: #45a049;
 		}
 	} 
+}
+
+@media (min-width: 1000px) {
+  body {
+  	
+  	padding: 0px;
+
+	.header {
+		padding-top: 50px;
+	}
+
+	.wrapper {
+		padding-top: 50px;
+	}
+
+	.ribbon {
+		float: right;
+		display: inline;
+		visibility: visible;
+	}
+  }
 }
