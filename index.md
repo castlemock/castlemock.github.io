@@ -42,7 +42,7 @@ Castle Mock can be downloaded as Java Web Archive (.war) file and be deployed on
 ----
 <center>
 <video width="400" height="350" loop autoplay muted>
-  <source src="https://castlemock.com/wp-content/uploads/2017/10/Castle_Mock_V_1_16.m4v" type="video/mp4">
+  <source src="assets/video/preview.m4v" type="video/mp4">
 </video>
 </center>
 Castle Mock can be accessed from the web browser when the installation is complete as such:
