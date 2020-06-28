@@ -51,7 +51,8 @@ Castle Mock can be accessed from the web browser when the installation is comple
 
 This will prompt you the login screen. When logging for the first time use the following credentials:
 	
-	Username: admin Password: admin
+	Username: admin 
+	Password: admin
 
 It is recommended that the administrator profile gets updated with a more secure password. This is accomplish by going to the user page and choosing to update the profile.
 
@@ -70,7 +71,7 @@ Use our official Docker image to setup and test Castle Mock:
 
 Castle Mock can be accessed from the following address after the installation is finished
 
-	http://{CONTAINER IP}:8080/castlemock
+	http://localhost:8080/castlemock
 
 For more information and details: <a href="https://hub.docker.com/r/castlemock/castlemock">https://hub.docker.com/r/castlemock/castlemock</a>
 
