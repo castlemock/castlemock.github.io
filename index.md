@@ -1,5 +1,5 @@
-# Castle Mock
-## Mock REST APIs and SOAP web-services
+<center><h1>Castle Mock</h1></center>
+<center><h2>Mock REST APIs and SOAP web-services</h2></center>
 
 <p align="center">
     <a href="https://travis-ci.org/castlemock/castlemock"><img src="https://travis-ci.org/castlemock/castlemock.svg?branch=master"></a>
