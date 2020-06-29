@@ -40,11 +40,13 @@ Castle Mock can be downloaded as Java Web Archive (.war) file and be deployed on
 
 ## Use Castle Mock
 ----
-<center>
-<video width="400" height="350" loop autoplay muted>
-  <source src="assets/video/preview.m4v" type="video/mp4">
-</video>
-</center>
+<div class="preview-video">
+	<center>
+		<video width="400" height="350" loop autoplay muted>
+			<source src="assets/video/preview.m4v" type="video/mp4">
+		</video>
+	</center>
+</div>
 Castle Mock can be accessed from the web browser when the installation is complete as such:
 
 	http://localhost:8080/castlemock

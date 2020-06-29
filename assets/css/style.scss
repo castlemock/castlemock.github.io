@@ -75,3 +75,10 @@ body {
 	}
   }
 }
+
+@media (max-width: 500px) {
+	.preview-video {
+		display: none;
+		visibility: hidden;
+	}
+}
