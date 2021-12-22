@@ -2,8 +2,7 @@
 <center><h2>Mock REST APIs and SOAP web-services</h2></center>
 
 <p align="center">
-    <a href="https://travis-ci.org/castlemock/castlemock"><img src="https://travis-ci.org/castlemock/castlemock.svg?branch=master"></a>
-    <a href="https://github.com/castlemock/castlemock/releases"><img src="https://img.shields.io/github/release/castlemock/castlemock.svg"></a>
+    <a href="https://app.travis-ci.com/github/castlemock/castlemock"><img src="https://app.travis-ci.com/castlemock/castlemock.svg?branch=master"></a>    <a href="https://github.com/castlemock/castlemock/releases"><img src="https://img.shields.io/github/release/castlemock/castlemock.svg"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-blue.svg"></a>
     <img src="https://img.shields.io/badge/platforms-Linux%C2%A0%7C%C2%A0macOS%20%7C%20Windows-blue">
     <a href="https://hub.docker.com/r/castlemock/castlemock/"><img src="https://img.shields.io/docker/pulls/castlemock/castlemock.svg"></a>
