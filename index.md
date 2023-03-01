@@ -21,6 +21,10 @@ Castle Mock can create mocked services based on WSDL, WADL, Swagger and RAML def
 
 Castle Mock is completely free and open source (Apache License 2.0). It is built with Java and the application itself is deployed to an Apache Tomcat server.
 
+## What to Use Castle Mock for and When to Use It
+----
+
+Use **Castle Mock** to mock out RESTful APIs and SOAP web services for testing purposes for when either performing system or integration tests. It is recommended to only use **Castle Mock** on an internal network and never be used publically. **Castle Mock** is **NOT** developed or meant for anything else other than for testing purposes.
 
 ## Download
 ----
@@ -73,11 +77,18 @@ Castle Mock can be accessed from the following address after the installation is
 
 For more information and details: <a href="https://hub.docker.com/r/castlemock/castlemock">https://hub.docker.com/r/castlemock/castlemock</a>
 
+## Documentation
+----
+
+Documentation can be found under our [GitHub Wiki](https://github.com/castlemock/castlemock/wiki). 
+
 ## Bugs and Feedback
+----
 
 For bugs, questions and discussions please use the [GitHub Issues](https://github.com/castlemock/castlemock/issues)
 
 ## License
+----
 
 **Castle Mock** is **licensed** under the **[Apache License](https://github.com/castlemock/castlemock/blob/master/LICENSE)**. The terms of the license are as follows:
 
