@@ -5,7 +5,6 @@
     <a href="https://github.com/castlemock/castlemock/releases"><img src="https://img.shields.io/github/release/castlemock/castlemock.svg"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-blue.svg"></a>
     <img src="https://img.shields.io/badge/platforms-Linux%C2%A0%7C%C2%A0macOS%20%7C%20Windows-blue">
-    <a href="https://hub.docker.com/r/castlemock/castlemock/"><img src="https://img.shields.io/docker/pulls/castlemock/castlemock.svg"></a>
 </p>
 
 <p align="center">
@@ -35,7 +34,7 @@ Use Castle Mock to mock out RESTful APIs and SOAP web services for testing purpo
 </div>
 <br/>
 
-Castle Mock can be downloaded as Java Web Archive (.war) file and be deployed on a Apache Tomcat server (Apache Tomcat 8.0 or higher).  No additional configurations are required in order to get Castle Mock up and running.
+Castle Mock can be downloaded as Java Web Archive (.war) file and be deployed on a Apache Tomcat server (Java 19+ and Apache Tomcat 8.5 or 9).  No additional configurations are required in order to get Castle Mock up and running.
 </center>
 
 ## Use Castle Mock
