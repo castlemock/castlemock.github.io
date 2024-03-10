@@ -34,7 +34,7 @@ Use Castle Mock to mock out RESTful APIs and SOAP web services for testing purpo
 </div>
 <br/>
 
-Castle Mock can be downloaded as Java Web Archive (.war) file and be deployed on a Apache Tomcat server (Java 19+ and Apache Tomcat 8.5 or 9).  No additional configurations are required in order to get Castle Mock up and running.
+Castle Mock can be downloaded as Java Web Archive (.war) file and be deployed on a Apache Tomcat server (Java 21+ and Apache Tomcat 10).  No additional configurations are required in order to get Castle Mock up and running.
 </center>
 
 ## Use Castle Mock
