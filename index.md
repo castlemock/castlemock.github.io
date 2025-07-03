@@ -4,16 +4,19 @@
 <div style="border:1px solid #e00; padding:16px; background-color:#ffe6e6; color:#800; font-weight:bold;">
 Castle Mock is no longer maintained and will not receive future updates.  
 The repository remains available for reference, but we recommend exploring alternatives for active use. 
-Please see **[DEPRECATION](https://github.com/castlemock/castlemock/blob/master/DEPRECATION.md)** for more information.
+Please see <a href="https://github.com/castlemock/castlemock/blob/master/DEPRECATION.md">DEPRECATION</a> for more information.
 </div>
 
+----
+
+<div> 
 <p align="center">
     <a href="https://github.com/castlemock/castlemock/releases"><img src="https://img.shields.io/github/release/castlemock/castlemock.svg"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-blue.svg"></a>
     <img src="https://img.shields.io/badge/platforms-Linux%C2%A0%7C%C2%A0macOS%20%7C%20Windows-blue">
     <img src="https://img.shields.io/badge/status-unmaintained-red">
 </p>
-
+</div>
 
 ----
 
