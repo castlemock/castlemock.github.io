@@ -11,9 +11,7 @@ Please see <a href="https://github.com/castlemock/castlemock/blob/master/DEPRECA
 
 <div> 
 <p align="center">
-    <a href="https://github.com/castlemock/castlemock/releases"><img src="https://img.shields.io/github/release/castlemock/castlemock.svg"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache%202-blue.svg"></a>
-    <img src="https://img.shields.io/badge/platforms-Linux%C2%A0%7C%C2%A0macOS%20%7C%20Windows-blue">
     <img src="https://img.shields.io/badge/status-unmaintained-red">
 </p>
 </div>
