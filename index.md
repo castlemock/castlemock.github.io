@@ -3,7 +3,7 @@
 
 <div style="border:1px solid #e00; padding:16px; background-color:#ffe6e6; color:#800; font-weight:bold;">
 Castle Mock is no longer maintained and will not receive future updates.  
-The repository remains available for reference, but we recommend exploring alternatives for active use. 
+The GitHub repository remains available for reference, but we recommend exploring alternatives for active use. The Docker Hub repository will eventually be deprecated and deleted. 
 Please see <a href="https://github.com/castlemock/castlemock/blob/master/DEPRECATION.md">DEPRECATION</a> for more information.
 </div>
 
